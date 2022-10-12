@@ -3,7 +3,7 @@
 ## Requirements :
 - Build a resume!
 
-## Suggested Layout:
+## Layout:
 ![Screen Shot 2022-10-12 at 9 12 41 AM](https://user-images.githubusercontent.com/100215009/195351985-8af3e4be-9c5f-4193-9ad6-b5c5cb62e913.png)
 
 #### 1. Name, Title, Contact info
