@@ -8,7 +8,7 @@
 
 1. Name, Title, Contact info
 2. Summary/ Personal Statement 
-3. Skills
+3. Skills (Focus on technical languages/skills)
 4. Projects & Experience 
 5. Education 
 
@@ -17,7 +17,7 @@
 - Keep it clean! Avoid columns, tables, font colors etc. 
 - update often
 
-##Ask yourself the following questions:
+## Ask yourself the following questions:
 - Is my resume easy to navigate and read?
 - Does my resume focus on accomplishments and results (not mundane duties)
 - Do I use data and metrics as evidence of my achievements?
