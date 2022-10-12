@@ -7,10 +7,10 @@
 ![Screen Shot 2022-10-12 at 9 12 41 AM](https://user-images.githubusercontent.com/100215009/195351985-8af3e4be-9c5f-4193-9ad6-b5c5cb62e913.png)
 
 #### 1. Name, Title, Contact info
-Include any links to personal pages, linkedIn, etc here 
+Include any links to portfolio, linkedIn, etc here 
 
 #### 2. Summary/ Personal Statement 
-Describe what you do and what you offer to the job. They will help you develop this in outcomes! 
+Describe what you do and what you offer to the job. They will help you create this in outcomes! 
 
 #### 3. Skills 
 Focus on technical languages/skills and consider grouping them into relevant categories 
