@@ -1,1 +1,10 @@
-# u1_personal_resume_lab
+# Personal Resume Lab
+
+
+Requirements :
+- build a resume
+
+
+Tips :
+- wireframe first
+- update often
