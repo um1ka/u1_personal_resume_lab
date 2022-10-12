@@ -6,18 +6,18 @@
 ## Suggested Layout:
 ![Screen Shot 2022-10-12 at 9 12 41 AM](https://user-images.githubusercontent.com/100215009/195351985-8af3e4be-9c5f-4193-9ad6-b5c5cb62e913.png)
 
-1. Name, Title, Contact info
+### 1. Name, Title, Contact info
 Include any links to personal pages, linkedIn, etc here 
 
-2. Summary/ Personal Statement 
+### 2. Summary/ Personal Statement 
 
-3. Skills 
+### 3. Skills 
 Focus on technical languages/skills and consider grouping them into relevant categories 
 
-4. Projects & Experience 
+### 4. Projects & Experience 
 Showcase your favorite projects and highlight your key skills/programs used. Experience should be concentrated to most relevant and recent. 
 
-6. Education 
+### 5. Education 
 List any degrees and your GA education.
 
 ## Tips:
