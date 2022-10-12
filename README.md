@@ -30,3 +30,6 @@ List any degrees and your GA education.
 - Is my resume easy to navigate and read?
 - Does my resume focus on accomplishments and results (not mundane duties)
 - Do I use data and metrics as evidence of my achievements?
+
+## Example Resume Template 
+![Screen Shot 2022-10-12 at 9 48 33 AM](https://user-images.githubusercontent.com/100215009/195360370-b613f7b4-af6b-4534-a7f4-dde7ecd8d625.png)
